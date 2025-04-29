@@ -5,6 +5,7 @@
 
 
 ## Circuit Setup
+- The sensor to be used is - Heartbeat Sensor
 - Connect the `GND` pin of the heartbeat sensor to the `GND` pin of the Arduino Uno (analog side).
 - Connect the `VCC` pin of the heartbeat sensor to the `5V` pin of the Arduino Uno (analog side).
 - Connect the `A0/Signal` pin of the heartbeat sensor to the `A0` pin of the Arduino Uno.
